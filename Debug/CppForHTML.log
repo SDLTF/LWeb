@@ -1,6 +1,6 @@
 ﻿  Elements.cpp
   FIle.cpp
   正在生成代码...
-D:\Code\Cpp\CppForHTML\CppForHTML\FIle.cpp(36): warning C4717: “File::clean_whitespace”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+D:\Code\Cpp\CppForHTML\CppForHTML\FIle.cpp(37): warning C4717: “File::clean_whitespace”: 如递归所有控件路径，函数将导致运行时堆栈溢出
 MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
 D:\Code\Cpp\CppForHTML\CppForHTML\Debug\CppForHTML.exe : fatal error LNK1120: 1 个无法解析的外部命令
